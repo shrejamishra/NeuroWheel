@@ -1,2 +1,2 @@
-# Calib-Net
-Exploring overconfidence in neural networks through model calibration, confidence evaluation and reliability improvement.
+# NeuroWheel
+EEG-based neural control system for wheelchairs enabling movement (forward, backward, left, right) through real-time brainwave interpretation.
